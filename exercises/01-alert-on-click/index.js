@@ -1,3 +1,4 @@
-window.myClickFunction = function myClickFunction() {
-	alert("Your first function!");
+//Declare your function here
+window.testFunction = function testFunction() {
+	alert("hello world");
 };
