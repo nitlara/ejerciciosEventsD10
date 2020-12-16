@@ -4,6 +4,3 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
-window.myClickFunction = function myClickFunction() {
-	alert("Wuju");
-};
